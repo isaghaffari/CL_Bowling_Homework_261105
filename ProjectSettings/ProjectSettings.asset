@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 30
-  productGUID: 273ea24f65c5440b9952618feffa0959
+  productGUID: 77a78fe4164597c4899198822f11a3c9
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: CL_Bowling_Homework_Collab_261105
+  productName: CodeLabs Oct 5
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -197,10 +197,10 @@ PlayerSettings:
   strictShaderVariantMatching: 0
   VertexChannelCompressionMask: 4054
   iPhoneSdkVersion: 988
-  iOSSimulatorArchitecture: 1
+  iOSSimulatorArchitecture: 0
   iOSTargetOSVersionString: 15.0
   tvOSSdkVersion: 0
-  tvOSSimulatorArchitecture: 1
+  tvOSSimulatorArchitecture: 0
   tvOSRequireExtendedGameController: 0
   tvOSTargetOSVersionString: 15.0
   VisionOSSdkVersion: 0
@@ -834,8 +834,7 @@ PlayerSettings:
   webWasm2023: 1
   webEnableSubmoduleStrippingCompatibility: 0
   webProgressiveAssetLoading: 0
-  scriptingDefineSymbols:
-    Standalone: SENTIS_ANALYTICS_ENABLED
+  scriptingDefineSymbols: {}
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend:
@@ -858,14 +857,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: CL_Bowling_Homework_Collab_261105
+  metroPackageName: CodeLabs Oct 5
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: CL_Bowling_Homework_Collab_261105
+  metroApplicationDescription: CodeLabs Oct 5
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -936,11 +935,11 @@ PlayerSettings:
   activeInputHandler: 1
   windowsGamepadBackendHint: 0
   enableDirectStorage: 0
-  cloudProjectId: 
+  cloudProjectId: ffd076e7-ef24-4749-adb8-988b7ec392b6
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
-  organizationId: 
+  projectName: CodeLabs Oct 5
+  organizationId: bigsuord
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
